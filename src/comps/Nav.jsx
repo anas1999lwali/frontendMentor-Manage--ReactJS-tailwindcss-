@@ -54,7 +54,7 @@ const Nav = () => {
         onClick={() => setShowMenu(!showMenu)}
       >
         <img
-          src={`src/assets/icon-${showMenu ? "close.svg" : "hamburger.svg"}`}
+          src={`/assets/icon-${showMenu ? "close.svg" : "hamburger.svg"}`}
           alt=""
         />
       </button>
