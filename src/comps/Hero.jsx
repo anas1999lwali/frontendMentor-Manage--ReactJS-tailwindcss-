@@ -18,7 +18,7 @@ const Hero = () => {
       </div>
 
       <div className="flex  justify-center lg:w-1/2 ">
-        <img src="src\assets\illustration-intro.svg" alt="" />
+        <img src="\assets\illustration-intro.svg" alt="" />
       </div>
     </div>
   );

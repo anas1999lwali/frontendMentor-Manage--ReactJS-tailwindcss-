@@ -31,41 +31,41 @@ const Footer = () => {
         <div className="flex space-x-12 lg:space-x-4 mx-auto">
           <a href="#">
             <img
-              src="src\assets\icon-facebook.svg"
+              src="\assets\icon-facebook.svg"
               className=" w-[45px] lg:w-[30px] "
               alt=""
             />
           </a>
           <a href="">
             <img
-              src="src\assets\icon-youtube.svg"
+              src="\assets\icon-youtube.svg"
               className=" w-[45px] lg:w-[30px] "
               alt=""
             />
           </a>
           <a href="">
             <img
-              src="src\assets\icon-twitter.svg"
+              src="\assets\icon-twitter.svg"
               className=" w-[45px] lg:w-[30px] "
               alt=""
             />
           </a>
           <a href="">
             <img
-              src="src\assets\icon-pinterest.svg"
+              src="\assets\icon-pinterest.svg"
               className=" w-[45px] lg:w-[30px] "
               alt=""
             />
           </a>
           <a href="">
             <img
-              src="src\assets\icon-instagram.svg"
+              src="\assets\icon-instagram.svg"
               alt=""
               className=" w-[45px] lg:w-[30px] "
             />
           </a>
         </div>
-        <img src="src\assets\logo.svg" className="w-[200px] mx-auto " alt="" />
+        <img src="\assets\logo.svg" className="w-[200px] mx-auto " alt="" />
       </div>
     </div>
   );

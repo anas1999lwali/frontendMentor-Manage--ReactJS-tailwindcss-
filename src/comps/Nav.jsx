@@ -24,7 +24,7 @@ const Nav = () => {
   return (
     <nav className="relative  container mx-auto p-4 flex items-center justify-between">
       <div className="pt-2">
-        <img src="src\assets\logo.svg" />
+        <img src="\assets\logo.svg" />
       </div>
       <div className="hidden md:flex space-x-6 text-darkBlue">
         <a href="" className="font-bold hover:text-darkGrayishBlue">
